@@ -5,3 +5,13 @@ body {
     background-size: cover;
     margin-bottom: 128px !important;
 }
+/* fuck you ewbkit!!!!!! bitchinlyfe2009 One Apple Park Way, Cupertino, California*/
+::-webkit-scrollbar
+{
+    display: none;
+}
+.scrollbar-ms-gecko
+{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
