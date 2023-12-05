@@ -2,7 +2,8 @@ body {
     max-width: 50vw;
     background-image: url(../svgs/bg.svg);
     background-position: center;
-    background-size: cover;
+    background-size: 100vw;
+    background-repeat: repeat-y;
     margin-bottom: 128px !important;
 }
 /* fuck you ewbkit!!!!!! bitchinlyfe2009 One Apple Park Way, Cupertino, California*/
