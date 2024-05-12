@@ -204,7 +204,7 @@ hr {
 }
 
 .top_image {
-    background-image:url(../svgs/pxw_top_image.svg);
+    background-image:url(../art/pixellisations_web.png);
     background-position: center;
     background-size: cover;
     width:70vw; 
