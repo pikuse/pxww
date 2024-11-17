@@ -1,5 +1,5 @@
 ﻿:root {
-    font-family: 'Inter', sans-serif;
+    font-family: 'MS UI Gothic', sans-serif;
     --dark: black;
 }
 
@@ -83,6 +83,9 @@ h1, h2, h3, h4, h5, h6 {
 p, a, strong, ul {
     margin: 0;
     line-height: 1.5;
+}
+p {
+    font-size: 18px
 }
 
 summary {
