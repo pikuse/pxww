@@ -1,7 +1,8 @@
 body {
-    max-width: 50vw;
+    max-width: 48vw;
+    background-color: white;
     background-image: url(../svgs/bg.svg);
-    background-position: center;
+    background-position: top;
     background-size: 100vw;
     background-repeat: repeat-y;
     margin-bottom: 128px !important;

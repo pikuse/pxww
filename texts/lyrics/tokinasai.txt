@@ -1,0 +1,68 @@
+iを解きなさい
+from Visual Novel "いきなりあなたに恋している"
+Developer: 枕 (Makurasoft)
+Vocals: はな
+Lyrics: SCA-DI
+Composition: szak (松本文紀)
+
+
+
+i wa kyosuu tan i de i wa suugaku teki ni
+jissuu jou ni wa sonzai dekinai mono kono bashode wa
+kanouna no kashira?
+i wa kyosuu tan'i
+
+marude fukakai atama de wakarou to omottara kanouna koto mo fukanou ni natte shimau mono yo √- 1 (ruuto mainasu ichi) wo sonomama ukeirete mite
+
+tarinai kimochi futari no mainasu wa kokoro to iu
+arienai jijou kara
+umareta monona no dakara
+
+ai no fu kanousei to wa marude kyosuu kuukanda wa
+ai no kasoku wa mugenna no yo kuukan mo chouyaku kanouna
+
+hayasa wa masani koigokoroda wa ai no kotoba tashikametemite
+arienai jijou nanka janai
+sugu ni wakaru hazudakara
+sunao ni
+
+ukeirete yo (rikai dekiru wa)
+arifureteru (kantandakara)
+fushigi demo nandemonai monoda wa
+
+i wa kyosuu tan i de i wa fukakaina mono
+riron de rikai fukanou genjitsu ni wa arienai wa
+
+ai wa koi janakute kyosuu yo suugaku tekina mondaida wa
+keisan mo dekiru no kowagaranaide
+
+kakidashite mite ai no houteishiki toitemite
+kotae wa wakareba subete seikai yo machigainashi 
+
+toite minasai anata no ai no houteishiki wo
+nanmon sugiru nante iiwake wa kikanai no
+
+ai no kotae iinasai seikai dake ga kotae janai no
+shinpai nante iranai wa sunaona kotae wo dashiteminasai
+
+mohan kaitou wa iranai wa daijina no wa anata no kotae
+oshiete ima sugu ai no kai wo ana no kotoba de shiritai no yo
+
+kotaenasai (kotaete hayaku)
+hora imasugu (sou ima sugu ni)
+ai no kotae wo hayaku iinasai
+
+ai no kotae dashinasai seikai nante kotae janai no
+dakara kitai wa shitenai wa sunaona kimochi wo kotaenasai
+
+mohan kaitou wa iranai wa daijina no wa anata no kimochi
+oshiete ima sugu ai no kai wo ana no kokoro ga shiritai no yo
+
+kotaenasai (kotaete hayaku)
+hora imasugu (sou imasugu)
+ai no kotae wo hayaku ii nasai
+
+nani o tereteiru no (shinkenna no yo)
+fuzakenaide (hontou no kimochi)
+
+ai no kotae wo hayaku ii nasai

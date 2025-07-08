@@ -1,5 +1,5 @@
 ﻿:root {
-    font-family: 'MS UI Gothic', sans-serif;
+    font-family: 'MS PGothic', sans-serif;
     --dark: black;
 }
 
@@ -136,8 +136,8 @@ a {
     bottom: 0;
     background-color: black;
     padding: 5px;
+    padding-bottom: 7px;
     width: 100vw;
-    height: 24px;
     white-space: nowrap;
 }
 
