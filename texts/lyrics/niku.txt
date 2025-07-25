@@ -6,11 +6,11 @@ Composition: 山田yum
 
 
 furechattemo ii toka sa iwaretemo omoenai no
-atashi no karada wa jiri jiri de kimi no me ni wa mienaikara sa
+atashi no karada wa jiri jiri de kimi no me ni wa mienai kara sa
 kimi ga suki nara warui mu ni naru kara sono kinisasenaide
 aoi raito no sukima kaze abinagara hokori to naiteru
 
-kyou made no koto kaitemo kono karada wo souteishitenai no
+kyou made no koto kaitemo kono karada wo soutei shitenai no
 kimi ga suki dayo demo atashi no fukou ni natteyuku kimi ga
 
 dakara denshi no hane mizubarashiku tadayou
@@ -21,14 +21,14 @@ jushinbako miteru atashi tada no uso no niku
 aechatte mo ii toka sa iwaretemo omoenai no
 atashi no karada wa jiri jiri de kimi no me ni mo utsurenai kara sa
 kimi ni suki toka iwaretemo sonna no uso ne denshi no umi
-nara hontou ni wa narenaino soujanainara mukae ni kite yo
+nara hontou ni wa narenaino soujanai nara mukae ni kite yo
 
-kyou made no koto kaitemo kono karada wo souteishitenai no
+kyou made no koto kaitemo kono karada wo soutei shitenai no
 kimi ga suki dayo demo atashi no fukou ni natteyuku kimi ga
 
 dakara denshi no hane mizubarashiku tadayou
 sugata wa marude sanagi no you ne
-aa dakishimetehoshii demo sore wa ienai
+aa dakishimete hoshii demo sore wa ienai
 jushinbako miteru atashi tada no uso no niku
 
 aa dakishimete hoshii kedo kimi wo mirenai
@@ -36,7 +36,7 @@ aa furasasete hoshii kedo koreja ikenai...
 
 dakara denshi no hane mizubarashiku tadayou
 sugata wa marude sanagi no you ne
-aa dakishimetehoshii demo sore wa ienai
+aa dakishimete hoshii demo sore wa ienai
 jushinbako miteru atashi tada no uso no niku
 
 aa dakishimete hoshii... aa furasasete hoshii...
