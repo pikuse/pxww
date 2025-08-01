@@ -3,7 +3,6 @@ Album: Superluminal Ж AKIBA-POP
 Label: MOSAIC.WAV
 Vocals: み～こ (MOSAIC.WAV)
 Production: MOSAIC.WAV
-Notes: "Tokyo to" is "東京都", and not "東京と".
 
 
 
@@ -42,12 +41,12 @@ jou ni nobiru no mo chika wo horu no mo
 suishin iryoku wa koukishin
 
 me wo hanashita suki ni shinka suru te wo nobashita toki ni chitte yuku
-marude Tokyo to shin no Galapagos
+marude Toukyouto shin no Galapagos
 shima no mannnaka ni wa WARP ZONE tsuki no uragawa made itchokusen
 konomama tsunagi atte yo GALAXY
 
 shinkei kairo mo VERSION UP de
-hannnou sokudo wa SUPERLUMINAL
+hannou sokudo wa SUPERLUMINAL
 shinpaku suunara 4 GHz de
 zenzen hetchara daidoumyaku! 
 densha ni nottara suima ga ohayou
