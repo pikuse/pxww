@@ -41,6 +41,24 @@ body {
     flex-flow: row nowrap;
 }
 
+.songcard {
+    display: flex;
+    max-height: 24vh;
+    max-width: 18vw;
+    color: white;
+    background: black;
+    border: black;
+    padding: 15px;
+    margin: 15px;
+    gap: 15px;
+    min-width: 43%;
+    text-decoration: none
+}
+
+.songcard b {
+    text-decoration: underline
+}
+
 .icontext {
     height: 32px;
     line-height: 32px;
