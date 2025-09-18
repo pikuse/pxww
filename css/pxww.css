@@ -46,8 +46,8 @@ body {
     max-height: 24vh;
     max-width: 18vw;
     color: white;
-    background: black;
-    border: black;
+    background: var(--dark);
+    border: var(--dark);
     padding: 15px;
     margin: 15px;
     gap: 15px;
@@ -152,7 +152,7 @@ a {
     color: white;
     position: absolute;
     bottom: 0;
-    background-color: black;
+    background-color: var(--dark);
     padding: 5px;
     padding-bottom: 7px;
     width: 100vw;
@@ -162,7 +162,7 @@ a {
 .bar_top {
     color: white;
     top: 0;
-    background-color: black;
+    background-color: var(--dark);
     padding: 8px;
     width: 100vw;
     display: flex;
@@ -171,7 +171,7 @@ a {
 }
 
 .navbar_button {
-    background-color: black;
+    background-color: var(--dark);
     bottom: 0;
     margin-left: 10px;
 }
@@ -193,7 +193,7 @@ iframe {
 }
 
 hr {
-    background-color: black;
+    background-color: var(--dark);
     border: none;
     height: 1px;
 }
