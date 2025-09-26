@@ -31,8 +31,8 @@ img {
 
 .heading {
     margin-top: 48px;
-    margin-left: 24px;
-    margin-bottom: 24px;
+    margin-bottom: 36px;
+    margin-left: 16px;
     font-weight: 200;
 }
 
@@ -49,14 +49,14 @@ img {
     display: flex;
     max-height: 24vh;
     max-width: 18vw;
+    min-width: 43%;
     color: white;
     background: var(--dark);
     border: var(--dark);
     padding: 15px;
     margin: 15px;
     gap: 15px;
-    min-width: 43.49%;
-    text-decoration: none
+    text-decoration: none;
 }
 
 .songcard b {
