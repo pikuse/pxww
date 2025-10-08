@@ -1,4 +1,4 @@
-iを解きなさい
+iを解きなさい　by metrowing
 from Visual Novel "いきなりあなたに恋している"
 Developer: 枕 (Makurasoft)
 Vocals: はな
