@@ -1,7 +1,7 @@
 あにゅすめあ
 Album: よみごとシンドローム
 Label: TuneCore Japan
-Vocals:桃寝ちのい, 南見こまり (CH1GM4)
+Vocals:桃寝ちのい & 南見こまり (CH1GM4)
 Lyrics: 桃寝ちのい
 Composition: iru
 Note: what is agnus mare
@@ -66,7 +66,7 @@ omoidegoto taberu yo
 
 tsuka no ma no CATHARSIS
 akumu no naka no giji kyoshiki
-yoru no mama de AGNUS MARE
+yoru no mama de AGNUS MARE (?)
 samenaide hoshii dake
 
 Ha...
@@ -86,4 +86,4 @@ towa ni konaide ushimitsu no majinai
 hora yo ga akete mo mamagoto wa tsudzukunode
 itsumade tatte mo kodomo dane
 hakuchuumu no mamoriyasan
-sayounara AGNUS MARE
+sayounara AGNUS MARE (?)
