@@ -1,9 +1,10 @@
 body {
-    width: 48vw;
+    width: 930px;
+    height: 1080px;
     background-color: white;
     background-image: url(../img/bg.svg);
     background-position: top;
-    background-size: 100vw;
+    background-size: 1920px;
     background-repeat: repeat-y;
     margin-bottom: 128px !important;
 }

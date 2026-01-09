@@ -61,16 +61,18 @@ Production: MOSAIC.WAV
 
 SYSTEM no naka no FANTASY
 de wa BLACKBOX tekina fukubiki de 
+
 ateta seinaru tsuuki ga 5-kai ni ichido teki wo utsu
 oo ni sasageta kin no omomi de tekichuu ritsunara 2 warimashi
 5% no kakuritsu de sekai wo sukuu no wa kimi sa 
 
-chikyuu no arayuru kakuritsu wo yoroshiki youni totonoeru kamisama nee unmei no
-chuusen kakuritsu kouhyou shite yo
+chikyuu no arayuru kakuritsu wo yoroshiki youni totonoeru
+kamisama nee unmei no chuusen kakuritsu kouhyou shite yo
 
 Nanamine (Bet!) Pasca wa (Push!) DICE wo (Lost!) furanai! (Broke!)
 hikeba hiku hodo hiku ni hikenai CONCORDE (Concorde fallacy)
-DIGITAL (Bet!) DATA wa (Push!) bosuu ga (Lost!) heranai! (Broke!) chokkan ni hansuru koware kake no RATIO
+DIGITAL (Bet!) DATA wa (Push!) bosuu ga (Lost!) heranai! (Broke!)
+chokkan ni hansuru koware kake no RATIO
 fukakuteina sekai wa omotta yori fukakute
 7-wari to omoeba mada 3-wari
 kakuritsu no kamisama wa watashi inai hou ni kakeru wa
@@ -81,7 +83,7 @@ dare yori tokuna ikikata erabasete MONTY HALL
 mekakushi shite TOUCH shite fureta tokoro wa nuno? hada?
 nazeka SAMPLE katayoru montekaruro no hadairo ritsu
 
-daremoga hitoshiku mottetara RANDOM janai sore ja unjanai
+daremo ga hitoshiku mottetara RANDOM janai sore ja unjanai
 dakara iu no tsukami tore! minna kodokuna dokuritsu jishou
 
 Nanamine (Bet!) Pasca wa (Push!) kako ni wa (Lost!) yoranai! (Broke!)
@@ -93,8 +95,10 @@ shakou tekina yuugi ni kao wo miseru shakou shin
 kakuritsu no kamisama wa yappa inai hou ni kakeru wa (keisan DATA kakuritsu ga)
 
 moshimo korega shin no shiwazanara (hontou ni tadashii kakuritsu wa?)
-moshimo sekai ga mattounara atai wa tadashiku shuusoku surudeshou (oshiete Mr. Bayes)
-dakara watashi wa akuma ni natte shikou kaisuu mugen made mugen made mugen made…
+moshimo sekai ga mattounara
+atai wa tadashiku shuusoku surudeshou (oshiete Mr. Bayes)
+dakara watashi wa akuma ni natte
+shikou kaisuu mugen made mugen made mugen made…
 
 "anata wo musakui chuushutsu shitai"
 FULL COMPLETE!!
