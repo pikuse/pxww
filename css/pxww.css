@@ -47,9 +47,8 @@ img {
 
 .songcard {
     display: flex;
-    max-height: 24vh;
-    max-width: 18vw;
-    min-width: 43%;
+    height: 150px;
+    width: 400px;
     color: white;
     background: var(--dark);
     border: var(--dark);
@@ -64,8 +63,8 @@ img {
 }
 
 .songcard img {
-    height: 16vh;
-    width: 8vw;
+    height: 150px;
+    width: 150px;
     object-fit: cover;
     image-rendering: auto
 }
