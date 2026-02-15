@@ -3,7 +3,7 @@ Album: サクラノ詩 ヴォーカルCD/Visual Novel "サクラノ詩"
 Label: 枕 (Makurasoft)
 Vocals: monet
 Lyrics: SCA-DI
-Composition: くど
+Production: くど
 
 
 

@@ -3,7 +3,7 @@ from Visual Novel "いきなりあなたに恋している"
 Developer: 枕 (Makurasoft)
 Vocals: はな
 Lyrics: SCA-DI
-Composition: szak (松本文紀)
+Production: szak (松本文紀)
 
 
 

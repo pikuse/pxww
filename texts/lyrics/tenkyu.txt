@@ -3,7 +3,7 @@ Album: サクラノ詩 ヴォーカルCD/Visual Novel "サクラノ詩"
 Label: 枕 (Makurasoft)
 Vocals: はな
 Lyrics: SCA-DI
-Composition: 松本文紀
+Production: 松本文紀
 Notes: There are some words sung inbetween in the choruses, but I can't really make them out.
 
 
