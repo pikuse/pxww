@@ -1,6 +1,6 @@
 tree by forest (はな)
 Album: tree
-Label: forest
+Circle: forest
 Vocals: はな
 Production: 松本文紀
 Notes: This one has a transcription on Genius, but it isn't very good, and I don't care.
