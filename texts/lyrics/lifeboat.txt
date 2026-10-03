@@ -33,9 +33,9 @@ Lyrics, Composition, Arrangement: nerdneko
 
 
 
-umi no oto hibiite
+umi no ne hibiite
 watashi wa samayotta
-kaze no oto fukinukete
+kaze no ne fukinukete
 anata wa tadayotta
 yoru fukaku e
 
@@ -48,7 +48,7 @@ kensou ga mimi oou
 kono jidai ikinuku
 kibou no uta, utau no
 yoake terasu hi no hikari
-yowarete mo mogakisusumu
+oborete mo mogakisusumu
 chikara ni nareru kara sa
 
 ima, koe ga kikoeru
