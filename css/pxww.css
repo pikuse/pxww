@@ -37,13 +37,13 @@ img {
 
 .heading {
     margin-top: 48px;
-    margin-bottom: 36px;
+    margin-bottom: 16px;
     margin-left: 8px;
     font-weight: 200;
 }
 
-.heading h2 {
-    margin-left: 8px;
+.heading-text {
+    padding: 9px 8px 8px;
 }
 
 .flexrow {
