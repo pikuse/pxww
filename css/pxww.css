@@ -1,5 +1,11 @@
-﻿:root {
-    font-family: 'MS Gothic', sans-serif;
+﻿@font-face {
+    font-family: MS-Gothic;
+    size-adjust: 94%;
+    src: url(/font/MS-Gothic.ttf);
+}
+
+:root {
+    font-family: "MS Gothic", MS-Gothic, sans-serif;
     --dark: black;
 }
 
@@ -247,7 +253,7 @@ hr {
 }
 
 .top_image {
-    background-image:url(../art/pxw-top-2026.gif);
+    background-image:url(/art/pxw-top-2026.gif);
     background-position: left;
     background-size: 180vh;
     background-repeat: no-repeat;
